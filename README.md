@@ -25,13 +25,12 @@ Apresente os resultados do seu projeto
 ## 💭 Reflexão (Opcional)
 Meu desejo foi ir além do básico e chegar, de fato, a um conteúdo/conhecimento de valor, que seja realmente útil e não apenas um simples "entendi o desafio". Uma busca de aliar conteúdo teórico à prática, mas não uma prática técnica, a simplificada. Por isso, decidi por utilizar um misto de tecnologias complementares em busca do melhor resultado. Os diferentes capítulos foram gerados por 3 diferentes IAs, Copilot, Claude e Google Notebook. O prompt utilizado foi o mesmo para todas as gerações e, ao fim, eu fiz a revisão de todo conteúdo, conectando partes, adicionado ou trocando termos afim de tornar a leitura mais fluida.
 
+Conseguiria transformar o conteúdo em Podcast, através do elevenlabs para narração com Heygen ou Veed, mas não foi o propósito atual.
 ```
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](https://drive.google.com/drive/folders/1dUTvnXFaHB09c1FQAsYOPoKLb0CzcTdN?usp=sharing)
 
 ## Links Interessantes
 
